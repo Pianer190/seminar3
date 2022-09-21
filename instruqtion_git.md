@@ -116,3 +116,6 @@ Git is sistem control version...
 3. elem 
 
 ## Изображение
+
+Что бы вставить изображение в текст нужно сделать : 
+![Скриншот](Screenshot_7.jpg)
