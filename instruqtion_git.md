@@ -98,3 +98,8 @@ Git is sistem control version...
 
 
 # Важно полсе каждой записи нажимать Ctrl + S
+
+
+
+## Списки
+
